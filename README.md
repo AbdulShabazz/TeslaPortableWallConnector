@@ -15,4 +15,4 @@ Generation 3 Tesla Wall Connector ( Bill of Materials )
 <img src=651D023D-1AE8-47B1-9E62-5983D63CD1A9.jpeg>  
 <img src=686D31B6-024F-448E-A234-BC7378E3F102.jpeg>  
 <img src=9F8745DE-AB7B-4CEC-BE0F-E4756F0D38C5.jpeg>  
-<img src="">
+<img src=A6598DB3-A348-4656-83B9-BDBA9A9F5E0C.jpeg>  
